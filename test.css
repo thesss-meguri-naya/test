@@ -3,3 +3,8 @@
   font-size: 30px;
   text-align: center;
 }
+.test3{
+  height:300px;
+  border: solid 1px #f00;
+  text-align: center;
+}
