@@ -1,0 +1,22 @@
+.test {
+  color: red;
+  font-size: 30px;
+  text-align: center;
+}
+.test3{
+  display: inline-block;
+  height:300px;
+  border: solid 1px #f00;
+  margin:10px;
+  padding:10px;
+}
+.test4{
+  display: inline-block;
+  height:300px;
+  border: solid 1px #00f;
+  margin:10px;
+  padding:10px;
+}
+.box{
+  text-align:center;
+}
