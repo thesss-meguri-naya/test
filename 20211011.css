@@ -1,22 +1,21 @@
-.test {
-  color: red;
-  font-size: 30px;
-  text-align: center;
+.button {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(45deg, #535353 0%, #535353 50%, #444 50%, #444 100%);
+  width: 140px; 
+  height: 50px;
+  margin: 0 auto;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 80%);
 }
-.test3{
-  display: inline-block;
-  height:300px;
-  border: solid 1px #f00;
-  margin:10px;
-  padding:10px;
+.button-a {
+  color: #fff;
+  margin: 0 auto;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
 }
-.test4{
-  display: inline-block;
-  height:300px;
-  border: solid 1px #00f;
-  margin:10px;
-  padding:10px;
-}
-.box{
-  text-align:center;
+.button:hover {
+  box-shadow: -5px 5px 10px 1px #28bee6 ,
+  5px -5px 10px 1px #D025C5;
 }
